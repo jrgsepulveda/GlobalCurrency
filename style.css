@@ -1,0 +1,118 @@
+.navContainer{
+    border-bottom: 1px solid #1E4258 ;
+}
+#logo{
+    height: 15%;
+    width: 15%;
+}
+.rightEnd{
+    margin-right: 10px;
+}
+.location{
+    background-color: lightgray;
+    color: #36454f;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+.titleContainer{
+    border-bottom: 1px solid lightgray; 
+    color: lightgray ;
+    background-color: #022140;
+}
+.mainContianer{
+    background-image: url("images/stock.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.secondDiv{
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+.instructions{
+    margin: 20px;
+    padding: 20px;
+    color: lightgray;
+    text-align: center;
+}
+table{
+    opacity: 90%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.tHead{
+    background-color: #1E4258;
+    color: lightgray;
+    text-align: center;
+}
+.colTh{
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.country{
+    background-color: #494b68;
+    color: lightgray;
+    text-align: center;
+}
+.currency{
+    background-color: #2d5f5d;
+    color: lightgrey;
+    text-align: center;
+}
+.date{
+    background-color: #265077;
+    color: lightgray;
+    text-align: center;
+}
+.contactContainer{
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, white, lightgray);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, white, lightgray); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding-bottom: 50px;
+}
+.erContainer{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.erRow{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 8px 6px -6px black;
+}
+.card{
+    background-color: #022140; 
+    box-shadow: 0 8px 6px -6px black;
+}
+.card-body{
+    
+    text-align: center;
+    color: lightgray;
+}
+.btn{
+    background-color: transparent;
+    border: solid 1px lightgray;
+}
+.containerBottom{
+    background-color: #265077;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: lightgray;
+}
+.rowBottom{
+    padding-left: 20px;
+}
+.footerContainer{
+    background-color: #022140;
+}
+.footer{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #022140;
+    color: lightgray;
+}
+
+
